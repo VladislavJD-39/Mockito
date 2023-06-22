@@ -11,7 +11,7 @@ import ru.netology.sender.MessageSenderImpl;
 
 import java.util.HashMap;
 
-public class sendsRUAndENTextTest {
+public class SendsRUAndENTextTest {
     @Test
     void sendsRussianText() {
 

@@ -10,7 +10,7 @@ import ru.netology.sender.MessageSenderImpl;
 
 import java.util.HashMap;
 
-public class sendsAndReturnTextTest {
+public class SendsAndReturnTextTest {
     @Test
     void sendsText() {
 
