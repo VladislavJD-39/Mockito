@@ -34,6 +34,7 @@ public class SendsAndReturnTextTest {
         Assertions.assertEquals(expectedENG, preferencesENG);
 
     }
+    
     @Test
     void checkingTheReturnedText() {
         String expected = "Добро пожаловать ";
