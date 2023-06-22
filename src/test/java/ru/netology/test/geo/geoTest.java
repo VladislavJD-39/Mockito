@@ -7,7 +7,7 @@ import ru.netology.entity.Location;
 import ru.netology.geo.GeoService;
 import ru.netology.geo.GeoServiceImpl;
 
-public class geoTest {
+public class GeoTest {
     @Test
     void testsToVerifyLocationByIP() {
         String ip = "96.0.0.0";
