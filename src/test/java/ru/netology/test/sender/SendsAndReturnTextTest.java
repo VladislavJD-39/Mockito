@@ -1,4 +1,4 @@
-package ru.netology.test.entity.sender;
+package ru.netology.test.sender;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
